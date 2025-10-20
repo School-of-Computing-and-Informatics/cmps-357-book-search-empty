@@ -13,7 +13,7 @@ Your goal is to complete the system design, write a **requirements document**, a
    - Includes:
      - A search bar for book titles.
      - A results list with clickable book entries.
-     - A details section displaying selected book info.
+     - A details section displaying selected book info (not shown in wireframe).
 
 2. **Backend**
    - Implements two REST endpoints:
