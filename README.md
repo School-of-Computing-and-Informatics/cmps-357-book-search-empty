@@ -2,7 +2,7 @@
 
 ## Overview
 You will design a **Book Search web application** that connects a simple frontend to a backend service.  
-The starter materials include a **wireframe**, **data flow diagram**, and **sample JSON data**.  
+The starter materials include a **wireframe** and **sample JSON data**.  
 Your goal is to complete the system design, write a **requirements document**, and build a minimal working prototype.
 
 ---
