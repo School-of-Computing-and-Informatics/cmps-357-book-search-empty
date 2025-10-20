@@ -24,7 +24,9 @@ Your goal is to complete the system design, write a **requirements document**, a
      ```
      https://www.googleapis.com/books/v1/volumes?q=<term>
      ```
-   - Must include **one data manipulation step** (e.g., filter, sort, format, or simplify results).
+   - Must include **two distinct data manipulation steps** (e.g., filter, sort, format, or simplify results).
+      - Each step should work independently and also function correctly when chained together in sequence.
+      - See the [Data Manipulation Options](data_manipulation_options.md) file.
 
 3. **Data Flow**
    - User enters a title → frontend sends GET request → backend retrieves and reformats data → response displayed on page.
