@@ -1,6 +1,7 @@
 # Data Manipulation Requirements
 
-After retrieving book data from either the **static JSON file** or the **Google Books API**, the backend must apply **at least one data manipulation step** before returning results to the frontend.  
+After retrieving book data from either the **static JSON file** or the **Google Books API**, the backend must apply **at least two data manipulation step** before returning results to the frontend.  
+Each step should work independently and also function correctly when chained together in sequence.
 The goal is to demonstrate understanding of how data is filtered, transformed, and structured within an API layer.
 
 ---
